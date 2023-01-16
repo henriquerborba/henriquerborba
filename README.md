@@ -7,7 +7,7 @@
     <img
         alt="Most used languages"
         height="180rem"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerborba&theme=dracula&layout=compact&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerborba&theme=dracula&layout=compact&langs_count=7"
     />
 </div>
 
