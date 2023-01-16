@@ -1,8 +1,118 @@
-### Hi there 👋
+<div style="display: flex; align-items: center; justify-content: center">
+    <img
+        alt="My github stats"
+        height="180rem"
+        src="https://github-readme-stats.vercel.app/api?username=henriquerborba&count_private=true&show_icons=true&theme=dracula"
+    />
+    <img
+        alt="Most used languages"
+        height="180rem"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerborba&theme=dracula&layout=compact&langs_count=8"
+    />
+</div>
 
-
-- 🔭 I’m currently intern at FATEC.
-- 🌱 I’m currently learning .NET, React and Dart/Flutter
-- 📫 How to reach me: @henriquerborba
-
-
+<div style="display: inline_block">
+    <br />
+    <img
+        alt="C"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    />
+    <img
+        alt="C++"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    />
+    <img
+        alt="CSHARP"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    />
+    <img
+        alt="dart"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+    />
+    <img
+        alt="java"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+    />
+    <img
+        alt="javascript"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    />
+    <img
+        alt="typescript"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    />
+    <img
+        alt="python"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
+    />
+    <img
+        alt="go"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
+    />
+    <img
+        alt="flutter"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+    />
+    <img
+        alt="dotnetcore"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+    />
+    <img
+        alt="react"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    />
+    <img
+        alt="angular"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+    />
+    <img
+        alt="spring"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+    />
+    <img
+        alt="djaango"
+        height="30"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    />
+    <img
+        alt="HTML"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    />
+    <img
+        alt="CSS"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    />
+</div>
