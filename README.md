@@ -2,12 +2,12 @@
     <img
         alt="My github stats"
         height="180rem"
-        src="https://github-readme-stats.vercel.app/api?username=henriquerborba&count_private=true&show_icons=true&theme=dracula"
+        src="https://github-readme-stats-git-master-henriquerborba.vercel.app/api?username=henriquerborba&count_private=true&show_icons=true&theme=dracula"
     />
     <img
         alt="Most used languages"
         height="180rem"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerborba&theme=dracula&layout=compact&langs_count=7"
+        src="https://github-readme-stats-git-master-henriquerborba.vercel.app/api/top-langs/?username=henriquerborba&theme=dracula&layout=compact&langs_count=7"
     />
 </div>
 
